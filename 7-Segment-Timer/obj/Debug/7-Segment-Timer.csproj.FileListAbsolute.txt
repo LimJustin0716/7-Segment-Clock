@@ -1,0 +1,30 @@
+D:\Program Files (x86)\Microsoft Visual Studio\source\repos-1\7-Segment-Timer\7-Segment-Timer\bin\Debug\7-Segment-Timer.exe.config
+D:\Program Files (x86)\Microsoft Visual Studio\source\repos-1\7-Segment-Timer\7-Segment-Timer\bin\Debug\7-Segment-Timer.exe
+D:\Program Files (x86)\Microsoft Visual Studio\source\repos-1\7-Segment-Timer\7-Segment-Timer\bin\Debug\7-Segment-Timer.pdb
+D:\Program Files (x86)\Microsoft Visual Studio\source\repos-1\7-Segment-Timer\7-Segment-Timer\obj\Debug\7-Segment-Timer.csproj.AssemblyReference.cache
+D:\Program Files (x86)\Microsoft Visual Studio\source\repos-1\7-Segment-Timer\7-Segment-Timer\obj\Debug\_7_Segment_Timer.Form1.resources
+D:\Program Files (x86)\Microsoft Visual Studio\source\repos-1\7-Segment-Timer\7-Segment-Timer\obj\Debug\_7_Segment_Timer.Properties.Resources.resources
+D:\Program Files (x86)\Microsoft Visual Studio\source\repos-1\7-Segment-Timer\7-Segment-Timer\obj\Debug\7-Segment-Timer.csproj.GenerateResource.cache
+D:\Program Files (x86)\Microsoft Visual Studio\source\repos-1\7-Segment-Timer\7-Segment-Timer\obj\Debug\7-Segment-Timer.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Microsoft Visual Studio\source\repos-1\7-Segment-Timer\7-Segment-Timer\obj\Debug\7-Segment-Timer.exe
+D:\Program Files (x86)\Microsoft Visual Studio\source\repos-1\7-Segment-Timer\7-Segment-Timer\obj\Debug\7-Segment-Timer.pdb
+C:\Users\justi\Desktop\7-Segment-Clock\7-Segment-Timer\bin\Debug\7-Segment-Timer.exe.config
+C:\Users\justi\Desktop\7-Segment-Clock\7-Segment-Timer\bin\Debug\7-Segment-Timer.exe
+C:\Users\justi\Desktop\7-Segment-Clock\7-Segment-Timer\bin\Debug\7-Segment-Timer.pdb
+C:\Users\justi\Desktop\7-Segment-Clock\7-Segment-Timer\obj\Debug\7-Segment-Timer.csproj.AssemblyReference.cache
+C:\Users\justi\Desktop\7-Segment-Clock\7-Segment-Timer\obj\Debug\_7_Segment_Timer.Form1.resources
+C:\Users\justi\Desktop\7-Segment-Clock\7-Segment-Timer\obj\Debug\_7_Segment_Timer.Properties.Resources.resources
+C:\Users\justi\Desktop\7-Segment-Clock\7-Segment-Timer\obj\Debug\7-Segment-Timer.csproj.GenerateResource.cache
+C:\Users\justi\Desktop\7-Segment-Clock\7-Segment-Timer\obj\Debug\7-Segment-Timer.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\7-Segment-Clock\7-Segment-Timer\obj\Debug\7-Segment-Timer.exe
+C:\Users\justi\Desktop\7-Segment-Clock\7-Segment-Timer\obj\Debug\7-Segment-Timer.pdb
+C:\Users\justi\Desktop\7-Segment-Clock-5152d802b190c4f8accb64129201f27b5cac7cef\7-Segment-Timer\bin\Debug\7-Segment-Timer.exe.config
+C:\Users\justi\Desktop\7-Segment-Clock-5152d802b190c4f8accb64129201f27b5cac7cef\7-Segment-Timer\bin\Debug\7-Segment-Timer.exe
+C:\Users\justi\Desktop\7-Segment-Clock-5152d802b190c4f8accb64129201f27b5cac7cef\7-Segment-Timer\bin\Debug\7-Segment-Timer.pdb
+C:\Users\justi\Desktop\7-Segment-Clock-5152d802b190c4f8accb64129201f27b5cac7cef\7-Segment-Timer\obj\Debug\7-Segment-Timer.csproj.AssemblyReference.cache
+C:\Users\justi\Desktop\7-Segment-Clock-5152d802b190c4f8accb64129201f27b5cac7cef\7-Segment-Timer\obj\Debug\_7_Segment_Timer.Form1.resources
+C:\Users\justi\Desktop\7-Segment-Clock-5152d802b190c4f8accb64129201f27b5cac7cef\7-Segment-Timer\obj\Debug\_7_Segment_Timer.Properties.Resources.resources
+C:\Users\justi\Desktop\7-Segment-Clock-5152d802b190c4f8accb64129201f27b5cac7cef\7-Segment-Timer\obj\Debug\7-Segment-Timer.csproj.GenerateResource.cache
+C:\Users\justi\Desktop\7-Segment-Clock-5152d802b190c4f8accb64129201f27b5cac7cef\7-Segment-Timer\obj\Debug\7-Segment-Timer.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\7-Segment-Clock-5152d802b190c4f8accb64129201f27b5cac7cef\7-Segment-Timer\obj\Debug\7-Segment-Timer.exe
+C:\Users\justi\Desktop\7-Segment-Clock-5152d802b190c4f8accb64129201f27b5cac7cef\7-Segment-Timer\obj\Debug\7-Segment-Timer.pdb
