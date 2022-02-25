@@ -38,3 +38,8 @@ C:\Users\justi\Desktop\7 Segment Clock\7-Segment-Timer\obj\Debug\7-Segment-Timer
 C:\Users\justi\Desktop\7 Segment Clock\7-Segment-Timer\obj\Debug\7-Segment-Timer.csproj.CoreCompileInputs.cache
 C:\Users\justi\Desktop\7 Segment Clock\7-Segment-Timer\obj\Debug\7-Segment-Timer.exe
 C:\Users\justi\Desktop\7 Segment Clock\7-Segment-Timer\obj\Debug\7-Segment-Timer.pdb
+C:\Users\justi\Desktop\7 Segment Clock\7-Segment-Timer\bin\Debug\Interop.WMPLib.dll
+C:\Users\justi\Desktop\7 Segment Clock\7-Segment-Timer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\justi\Desktop\7 Segment Clock\7-Segment-Timer\obj\Debug\Interop.WMPLib.dll
+C:\Users\justi\Desktop\7 Segment Clock\7-Segment-Timer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\justi\Desktop\7 Segment Clock\7-Segment-Timer\obj\Debug\7-Segment-Timer.csproj.ResolveComReference.cache
