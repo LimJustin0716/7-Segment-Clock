@@ -491,6 +491,234 @@ namespace _7_Segment_Timer
                     minute1F.PerformClick();
                     minute1G.PerformClick();
                 }
+
+                //Hour in 1s place
+                live_hour2 = DateTime.Now.ToString("HH");
+                hour2 = Convert.ToInt32(live_hour2.Substring(live_hour2.Length - 1));
+
+                if (hour2 == 0)
+                {
+                    hour2A.PerformClick();
+                    hour2B.PerformClick();
+                    hour2C.PerformClick();
+                    hour2D.PerformClick();
+                    hour2E.PerformClick();
+                    hour2F.PerformClick();
+                    hour2G.UseVisualStyleBackColor = true;
+                }
+
+                else if (hour2 == 1)
+                {
+                    hour2A.UseVisualStyleBackColor = true;
+                    hour2B.PerformClick();
+                    hour2C.PerformClick();
+                    hour2D.UseVisualStyleBackColor = true;
+                    hour2E.UseVisualStyleBackColor = true;
+                    hour2F.UseVisualStyleBackColor = true;
+                    hour2G.UseVisualStyleBackColor = true;
+                }
+
+                else if (hour2 == 2)
+                {
+                    hour2A.PerformClick();
+                    hour2B.PerformClick();
+                    hour2C.UseVisualStyleBackColor = true;
+                    hour2D.PerformClick();
+                    hour2E.PerformClick();
+                    hour2F.UseVisualStyleBackColor = true;
+                    hour2G.PerformClick();
+                }
+
+                else if (hour2 == 3)
+                {
+                    hour2A.PerformClick();
+                    hour2B.PerformClick();
+                    hour2C.PerformClick();
+                    hour2D.PerformClick();
+                    hour2E.UseVisualStyleBackColor = true;
+                    hour2F.UseVisualStyleBackColor = true;
+                    hour2G.PerformClick();
+                }
+
+                else if (hour2 == 4)
+                {
+                    hour2A.UseVisualStyleBackColor = true;
+                    hour2B.PerformClick();
+                    hour2C.PerformClick();
+                    hour2D.UseVisualStyleBackColor = true;
+                    hour2E.UseVisualStyleBackColor = true;
+                    hour2F.PerformClick();
+                    hour2G.PerformClick();
+                }
+
+                else if (hour2 == 5)
+                {
+                    hour2A.PerformClick();
+                    hour2B.UseVisualStyleBackColor = true;
+                    hour2C.PerformClick();
+                    hour2D.PerformClick();
+                    hour2E.UseVisualStyleBackColor = true;
+                    hour2F.PerformClick();
+                    hour2G.PerformClick();
+                }
+
+                else if (hour2 == 6)
+                {
+                    hour2A.PerformClick();
+                    hour2B.UseVisualStyleBackColor = true;
+                    hour2C.PerformClick();
+                    hour2D.PerformClick();
+                    hour2E.PerformClick();
+                    hour2F.PerformClick();
+                    hour2G.PerformClick();
+                }
+
+                else if (hour2 == 7)
+                {
+                    hour2A.PerformClick();
+                    hour2B.PerformClick();
+                    hour2C.PerformClick();
+                    hour2D.UseVisualStyleBackColor = true;
+                    hour2E.UseVisualStyleBackColor = true;
+                    hour2F.UseVisualStyleBackColor = true;
+                    hour2G.UseVisualStyleBackColor = true;
+                }
+
+                else if (hour2 == 8)
+                {
+                    hour2A.PerformClick();
+                    hour2B.PerformClick();
+                    hour2C.PerformClick();
+                    hour2D.PerformClick();
+                    hour2E.PerformClick();
+                    hour2F.PerformClick();
+                    hour2G.PerformClick();
+                }
+
+                else if (hour2 == 9)
+                {
+                    hour2A.PerformClick();
+                    hour2B.PerformClick();
+                    hour2C.PerformClick();
+                    hour2D.UseVisualStyleBackColor = true;
+                    hour2E.UseVisualStyleBackColor = true;
+                    hour2F.PerformClick();
+                    hour2G.PerformClick();
+                }
+
+                //Hour in 10s place
+                live_hour1 = DateTime.Now.ToString("HH");
+                hour1 = Convert.ToInt32(live_hour1.Substring(0, 1));
+
+                if (hour1 == 0)
+                {
+                    hour1A.PerformClick();
+                    hour1B.PerformClick();
+                    hour1C.PerformClick();
+                    hour1D.PerformClick();
+                    hour1E.PerformClick();
+                    hour1F.PerformClick();
+                    hour1G.UseVisualStyleBackColor = true;
+                }
+
+                else if (hour1 == 1)
+                {
+                    hour1A.UseVisualStyleBackColor = true;
+                    hour1B.PerformClick();
+                    hour1C.PerformClick();
+                    hour1D.UseVisualStyleBackColor = true;
+                    hour1E.UseVisualStyleBackColor = true;
+                    hour1F.UseVisualStyleBackColor = true;
+                    hour1G.UseVisualStyleBackColor = true;
+                }
+
+                else if (hour1 == 2)
+                {
+                    hour1A.PerformClick();
+                    hour1B.PerformClick();
+                    hour1C.UseVisualStyleBackColor = true;
+                    hour1D.PerformClick();
+                    hour1E.PerformClick();
+                    hour1F.UseVisualStyleBackColor = true;
+                    hour1G.PerformClick();
+                }
+
+                else if (hour1 == 3)
+                {
+                    hour1A.PerformClick();
+                    hour1B.PerformClick();
+                    hour1C.PerformClick();
+                    hour1D.PerformClick();
+                    hour1E.UseVisualStyleBackColor = true;
+                    hour1F.UseVisualStyleBackColor = true;
+                    hour1G.PerformClick();
+                }
+
+                else if (hour1 == 4)
+                {
+                    hour1A.UseVisualStyleBackColor = true;
+                    hour1B.PerformClick();
+                    hour1C.PerformClick();
+                    hour1D.UseVisualStyleBackColor = true;
+                    hour1E.UseVisualStyleBackColor = true;
+                    hour1F.PerformClick();
+                    hour1G.PerformClick();
+                }
+
+                else if (hour1 == 5)
+                {
+                    hour1A.PerformClick();
+                    hour1B.UseVisualStyleBackColor = true;
+                    hour1C.PerformClick();
+                    hour1D.PerformClick();
+                    hour1E.UseVisualStyleBackColor = true;
+                    hour1F.PerformClick();
+                    hour1G.PerformClick();
+                }
+
+                else if (hour1 == 6)
+                {
+                    hour1A.PerformClick();
+                    hour1B.UseVisualStyleBackColor = true;
+                    hour1C.PerformClick();
+                    hour1D.PerformClick();
+                    hour1E.PerformClick();
+                    hour1F.PerformClick();
+                    hour1G.PerformClick();
+                }
+
+                else if (hour1 == 7)
+                {
+                    hour1A.PerformClick();
+                    hour1B.PerformClick();
+                    hour1C.PerformClick();
+                    hour1D.UseVisualStyleBackColor = true;
+                    hour1E.UseVisualStyleBackColor = true;
+                    hour1F.UseVisualStyleBackColor = true;
+                    hour1G.UseVisualStyleBackColor = true;
+                }
+
+                else if (hour1 == 8)
+                {
+                    hour1A.PerformClick();
+                    hour1B.PerformClick();
+                    hour1C.PerformClick();
+                    hour1D.PerformClick();
+                    hour1E.PerformClick();
+                    hour1F.PerformClick();
+                    hour1G.PerformClick();
+                }
+
+                else if (hour1 == 9)
+                {
+                    hour1A.PerformClick();
+                    hour1B.PerformClick();
+                    hour1C.PerformClick();
+                    hour1D.UseVisualStyleBackColor = true;
+                    hour1E.UseVisualStyleBackColor = true;
+                    hour1F.PerformClick();
+                    hour1G.PerformClick();
+                }
             }
         }
     }

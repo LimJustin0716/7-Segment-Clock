@@ -28,3 +28,13 @@ C:\Users\justi\Desktop\7-Segment-Clock-5152d802b190c4f8accb64129201f27b5cac7cef\
 C:\Users\justi\Desktop\7-Segment-Clock-5152d802b190c4f8accb64129201f27b5cac7cef\7-Segment-Timer\obj\Debug\7-Segment-Timer.csproj.CoreCompileInputs.cache
 C:\Users\justi\Desktop\7-Segment-Clock-5152d802b190c4f8accb64129201f27b5cac7cef\7-Segment-Timer\obj\Debug\7-Segment-Timer.exe
 C:\Users\justi\Desktop\7-Segment-Clock-5152d802b190c4f8accb64129201f27b5cac7cef\7-Segment-Timer\obj\Debug\7-Segment-Timer.pdb
+C:\Users\justi\Desktop\7 Segment Clock\7-Segment-Timer\bin\Debug\7-Segment-Timer.exe.config
+C:\Users\justi\Desktop\7 Segment Clock\7-Segment-Timer\bin\Debug\7-Segment-Timer.exe
+C:\Users\justi\Desktop\7 Segment Clock\7-Segment-Timer\bin\Debug\7-Segment-Timer.pdb
+C:\Users\justi\Desktop\7 Segment Clock\7-Segment-Timer\obj\Debug\7-Segment-Timer.csproj.AssemblyReference.cache
+C:\Users\justi\Desktop\7 Segment Clock\7-Segment-Timer\obj\Debug\_7_Segment_Timer.Form1.resources
+C:\Users\justi\Desktop\7 Segment Clock\7-Segment-Timer\obj\Debug\_7_Segment_Timer.Properties.Resources.resources
+C:\Users\justi\Desktop\7 Segment Clock\7-Segment-Timer\obj\Debug\7-Segment-Timer.csproj.GenerateResource.cache
+C:\Users\justi\Desktop\7 Segment Clock\7-Segment-Timer\obj\Debug\7-Segment-Timer.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\7 Segment Clock\7-Segment-Timer\obj\Debug\7-Segment-Timer.exe
+C:\Users\justi\Desktop\7 Segment Clock\7-Segment-Timer\obj\Debug\7-Segment-Timer.pdb
